@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_color_palette.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/color_palette.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_archive_black.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/archive_black.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_empty_folder_light.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/empty_folder_light.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_empty_trash_light.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/empty_trash_light.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_empty_trash_black.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/empty_trash_black.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_recovery.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/recovery.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.notebook.app-main-31:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_recovery_black.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/recovery_black.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_empty_folder_black.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/empty_folder_black.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_no_results_black.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/no_results_black.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_archive_light.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/archive_light.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_launch_screen.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/layout_launch_screen.xml.flat",
+        "source": "com.notebook.app-main-31:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_no_results_light.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/no_results_light.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_empty_folder.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/empty_folder.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.notebook.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notebook.app-merged_res-29:/drawable_recovery_light.png.flat",
+        "source": "com.notebook.app-main-31:/drawable/recovery_light.png"
+    }
+]

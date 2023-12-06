@@ -1,0 +1,129 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Ysabeau-Black.ttf",
+      "sha1": "d5d44e2a303c804a13d7489b83a24e81a03915b2"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-BlackItalic.ttf",
+      "sha1": "2616eb15ce8474fedf4b94a7071bdaadc6f7b342"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Bold.ttf",
+      "sha1": "57237e3191e5697bad6ff522e6a7ceb2680bfa83"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-BoldItalic.ttf",
+      "sha1": "dc94a0b1d6fd729ff75b6553d5dd1782dbee31e9"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-ExtraBold.ttf",
+      "sha1": "c054ad508c540e7afa9c19d7d6d28e4890db89bd"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-ExtraBoldItalic.ttf",
+      "sha1": "3ebc1bd8c7eeb101f64a97e6507afa177eecdfd0"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-ExtraLight.ttf",
+      "sha1": "666356b2fa84d443e678a00fbc44cd9087e32cb4"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-ExtraLightItalic.ttf",
+      "sha1": "f4b6d12a82870cac19e9201468bb6a9b002deb47"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Italic.ttf",
+      "sha1": "735b1dc00a1886d3ae5f38978708e1ee0c3bbd1f"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Light.ttf",
+      "sha1": "da805a01dc43cd7a7786fc2e21828bb8c82d9482"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-LightItalic.ttf",
+      "sha1": "1edd1cf5e429a5139f6b67325b11f98afc3ff7ec"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Medium.ttf",
+      "sha1": "b3f0077794a5765575cb7691896c34c47ff6b2fc"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-MediumItalic.ttf",
+      "sha1": "9e092c5b0ffc8d2c4e30d52f2b02e3101ef5b582"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Regular.ttf",
+      "sha1": "4af599bd66c965955519013aaea3e57c1b63d779"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-SemiBold.ttf",
+      "sha1": "229d5b49f708350afe96fc14934e18a3f21a2d62"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-SemiBoldItalic.ttf",
+      "sha1": "88488349355fa16b78f5a48d7245843b0b4b8d44"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-Thin.ttf",
+      "sha1": "7783e2194b7fa5e35cad02ca65a95af4adf5eddd"
+    },
+    {
+      "path": "src/assets/fonts/Ysabeau-ThinItalic.ttf",
+      "sha1": "8853f8d644ce19c7d0297785beb249f35f7188c1"
+    },
+    {
+      "path": "src/assets/images/archive_black.png",
+      "sha1": "9dc91db32c0ba2de6baffe8887c688c91f88e17d"
+    },
+    {
+      "path": "src/assets/images/archive_light.png",
+      "sha1": "00b7b94945e416ae48ff40421b5a9f3bff0be971"
+    },
+    {
+      "path": "src/assets/images/empty_folder.png",
+      "sha1": "85bc7a2ef487c7c92ea10797a326bd663c03a9f6"
+    },
+    {
+      "path": "src/assets/images/empty_folder_black.png",
+      "sha1": "d056c6da9ed25564b72a8a7a7a5ce7d5b85cd9cd"
+    },
+    {
+      "path": "src/assets/images/empty_folder_light.png",
+      "sha1": "642fb00f1ea6a9032cf7142cc5ea2100803ed87b"
+    },
+    {
+      "path": "src/assets/images/empty_trash_black.png",
+      "sha1": "7fc1dfcb8e35b9333083c6505c4c07126d15a4e3"
+    },
+    {
+      "path": "src/assets/images/empty_trash_light.png",
+      "sha1": "8e6ef303ebf328fb7dc351843cf8fb14844b5f59"
+    },
+    {
+      "path": "src/assets/images/icons/color_palette.png",
+      "sha1": "be0ddc4d429f492c10b42277c2d232249a8c64ce"
+    },
+    {
+      "path": "src/assets/images/no_results_black.png",
+      "sha1": "ca464aa10b66da31c584628db9c0121114c06a0a"
+    },
+    {
+      "path": "src/assets/images/no_results_light.png",
+      "sha1": "3b970d981b26491ce4a21755ccec68abc244de16"
+    },
+    {
+      "path": "src/assets/images/recovery.png",
+      "sha1": "3fd9beff3ed6f75b2d23cef0afc0b41745db1dd2"
+    },
+    {
+      "path": "src/assets/images/recovery_black.png",
+      "sha1": "373f89e0d1be448999d120485505b9db25458e23"
+    },
+    {
+      "path": "src/assets/images/recovery_light.png",
+      "sha1": "3b69a871bcdcd6dcca48740498bf733e65eb972a"
+    }
+  ]
+}
